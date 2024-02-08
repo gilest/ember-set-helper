@@ -2,6 +2,16 @@
 
 ## Release (2024-02-08)
 
+
+
+#### :house: Internal
+* [#65](https://github.com/adopted-ember-addons/ember-set-helper/pull/65) putting it back where it was first ([@MelSumner](https://github.com/MelSumner))
+
+#### Committers: 1
+- Melanie Sumner ([@MelSumner](https://github.com/MelSumner))
+
+## Release (2024-02-08)
+
 ember-set-helper 3.0.0 (major)
 
 #### :boom: Breaking Change
